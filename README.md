@@ -106,7 +106,6 @@ Jika Anda perlu memproses data geospasial atau Podes baru:
 📦 Desa_Monitoring
  ┣ 📂 backend/                    # Source code Laravel API & Database Migrations
  ┣ 📂 frontend-desa-monitoring/   # Source code React Vite + Tailwind
- ┣ 📂 data_podes/                 # File raw data (Shapefile, DBF, Excel)
  ┣ 📜 etl_pipeline.py             # Skrip utama ekstraksi data
  ┣ 📜 docker-compose.yml          # Konfigurasi container opsional
  ┗ 📜 .gitignore                  # Mengabaikan file data besar dari repository
